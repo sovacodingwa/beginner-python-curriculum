@@ -1,7 +1,5 @@
 # Problem 1
 # Search the list and print whether "banana" is found.
-fruits = ["apple", "orange", "banana", "grape"]
-
 
 
 # Problem 2

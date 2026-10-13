@@ -5,6 +5,7 @@ import random
 # Print the first and last.
 # Then add another brand using append() and print the updated list.
 
+print(IDK)
 
 
 # Problem 2
