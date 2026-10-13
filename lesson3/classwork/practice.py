@@ -4,13 +4,13 @@
 
 
 
-# Problem 2
+# problem 2
 # Ask the user for their age.
-# If they are 18 or older, print "Adult", else print "Minor".
+# If they are 18 or older, print "Adult", else print "minor".
 
 
 
-# Problem 3
+# Problem 3 
 # Ask the user to enter a number.
 # Print "Fizz" if it is divisible by 3, "Buzz" if divisible by 5,
 # print "FizzBuzz" if divisible by both 3 and 5,
