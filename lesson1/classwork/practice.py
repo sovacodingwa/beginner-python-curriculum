@@ -1,6 +1,6 @@
 # Problem 1
-# Create a variable for your favorite number and print it.
-
+# Create a variable for your favorite number and print i
+print("i wasnt here")
 
 
 # Problem 2

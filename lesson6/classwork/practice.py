@@ -2,9 +2,8 @@
 # Write a function that returns your favorite fruit and print it.
 
 
-
 # Problem 2
-# Write a function that takes one parameter num.
+#Write a function that takes one parameter num.
 # The function should return the value of num multiplied by 2.
 
 
